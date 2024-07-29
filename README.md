@@ -7,9 +7,8 @@ Welcome to my Software Quality Assurance (SQA) portfolio! I am a passionate SQA 
 ## Skills
 
 - **Manual Testing**: Experienced in manual testing techniques and methodologies.
-- **Quality Assurance**: Skilled in designing test plans, test cases, and executing comprehensive QA processes.
+- **Quality Assurance**: Skilled in designing test plans, test cases and executing comprehensive QA processes.
 - **Defect Management**: Proficient in defect tracking and management tools.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Familiar with CI/CD pipelines and integration with testing processes.
 - **Agile Methodologies**: Experienced in Agile/Scrum development methodologies.
 
 ## Contributions
